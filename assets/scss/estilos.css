@@ -11995,4 +11995,11 @@ textarea.form-control-lg {
 
 .glosary-content h2, .glosary-content .h2 {
   text-transform: uppercase;
+}
+.dropdown-dark-theme {
+  position: relative;
+}
+
+.glosary-menu-dark-theme {
+  position: absolute !important;
 }/*# sourceMappingURL=estilos.css.map */

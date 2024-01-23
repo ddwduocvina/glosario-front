@@ -31,8 +31,11 @@ $color-mode-type: data;
         text-transform: uppercase;
     }
     .glosary-item {
-        // position: relative !important;
-        // left: auto !important;
-        // top: auto !important;
     }
+}
+.dropdown-dark-theme {
+    position: relative;
+}
+.glosary-menu-dark-theme {
+    position: absolute !important;
 }
