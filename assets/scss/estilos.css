@@ -11976,6 +11976,11 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+[data-bs-theme=dark] .element {
+  color: var(--bs-primary-text-emphasis);
+  background-color: var(--bs-primary-bg-subtle);
+}
+
 .glosary-nav .nav-link {
   display: inline-block;
   border: 1px solid #000;

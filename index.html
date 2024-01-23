@@ -5,12 +5,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glosario</title>
     <link rel="stylesheet" href="assets/scss/estilos.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
     <header>
         <nav class="navbar bg-body-tertiary">
             <div class="container">
                 <h1><a class="navbar-brand" href="#">Glosario</a></h1>
+                <!-- modo oscuro -->
+                <!--
+                <ul class="navbar-nav flex-row flex-wrap ms-md-auto">
+                    <li class="nav-item dropdown">
+                        <button class="btn btn-link nav-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (light)">
+                        <svg class="bi my-1 theme-icon-active"><use xlink:href="bootstrap-icons.svg#sun-fill"></use>
+                        </svg>
+                        
+                        <span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span>
+                        </button>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text">
+                      <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="light" aria-pressed="true">
+                          <svg class="bi me-2 opacity-50 theme-icon"><use href="#sun-fill"></use></svg>
+                          Light
+                          <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                          <svg class="bi me-2 opacity-50 theme-icon"><use href="#moon-stars-fill"></use></svg>
+                          Dark
+                          <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="false">
+                          <svg class="bi me-2 opacity-50 theme-icon"><use href="#circle-half"></use></svg>
+                          Auto
+                          <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>-->
                 <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -103,7 +139,7 @@
     </header>
     <main class="glosary-content">
         <div class="container">
-            <div class="row" data-masonry='{"percentPosition": true, "itemSelector": ".glosary-item" }'>
+            <div class="row">
                 <!-- A -->
                 <div class="col-12 col-lg-6 col-xxl-4 glosary-item">
                     <section id="a-section" class="py-5">
