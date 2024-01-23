@@ -1,3 +1,17 @@
 @import '../bootstrap-5.3.2/scss/bootstrap.scss';
 
 // Estilos generales
+
+.glosary-nav {
+    .nav-link {
+        display: inline-block;
+        border: 1px solid $black;
+        height: 50px;
+        width: 60px;
+        line-height: 50px;
+        padding: 0;
+        text-align: center;
+        margin-bottom: $spacer;
+        text-transform: uppercase;
+    }
+}
