@@ -15,8 +15,17 @@ $color-mode-type: data;
 }
 
 // Estilos generales
+html {
+    scroll-padding-top: 4rem;
+}
 body {
     font-style: normal;
+}
+.border {
+    border-bottom-width: 4px !important;
+}
+.navbar-brand {
+    font-size: 32px;
 }
 .glosary-nav {
     .nav-link {
@@ -29,11 +38,14 @@ body {
         text-align: center;
         margin-bottom: $spacer;
         text-transform: uppercase;
+        font-family: $headings-font-family;
+        font-size: 24px;
     }
 }
 .glosary-content {
     h2 {
         text-transform: uppercase;
+        //padding-block-start: 50px;
     }
     .glosary-item {
     }
