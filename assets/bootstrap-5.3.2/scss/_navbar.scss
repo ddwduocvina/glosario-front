@@ -154,17 +154,24 @@
   color: var(--#{$prefix}navbar-color);
   background-color: transparent; // remove default button style
   border: var(--#{$prefix}border-width) solid var(--#{$prefix}navbar-toggler-border-color); // remove default button style
-  @include border-radius(var(--#{$prefix}navbar-toggler-border-radius));
+  //@include border-radius(var(--#{$prefix}navbar-toggler-border-radius));
+  border-radius: 0;
   @include transition(var(--#{$prefix}navbar-toggler-transition));
 
   &:hover {
     text-decoration: none;
+    &.border {
+      border-color: $purple;
+      .navbar-toggler-icon {
+        color: $purple !important;
+      }
+    }
   }
 
   &:focus {
     text-decoration: none;
     outline: 0;
-    box-shadow: 0 0 0 var(--#{$prefix}navbar-toggler-focus-width);
+    box-shadow: 0 0 0 rgba(114, 102, 255, .5);//var(--#{$prefix}navbar-toggler-focus-width);
   }
 }
 
