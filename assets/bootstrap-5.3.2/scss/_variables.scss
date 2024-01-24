@@ -1381,10 +1381,10 @@ $accordion-button-color:                  var(--#{$prefix}body-color) !default;
 $accordion-button-bg:                     var(--#{$prefix}accordion-bg) !default;
 $accordion-transition:                    $btn-transition, border-radius .15s ease !default;
 $accordion-button-active-bg:              $green !default; //var(--#{$prefix}primary-bg-subtle) !default;
-$accordion-button-active-color:           var(--#{$prefix}primary-text-emphasis) !default;
+$accordion-button-active-color:           $black !default; //var(--#{$prefix}primary-text-emphasis) !default;
 
 $accordion-button-focus-border-color:     $green !default; //$input-focus-border-color !default;
-$accordion-button-focus-box-shadow:       $btn-focus-box-shadow !default;
+$accordion-button-focus-box-shadow:       0 0 $focus-ring-blur $focus-ring-width rgba($purple-300, $focus-ring-opacity) !default;
 
 $accordion-icon-width:                    1.25rem !default;
 $accordion-icon-color:                    $body-color !default;
