@@ -56,3 +56,9 @@ body {
 .glosary-menu-dark-theme {
     position: absolute !important;
 }
+.accordion-header {
+    border-radius: $border-radius;
+    .accordion-button {
+        border-radius: $border-radius;
+    }
+}
