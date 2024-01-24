@@ -1,7 +1,10 @@
+// Importación de fuentes
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Source+Sans+3:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Importación de Bootstrap
 @import '../bootstrap-5.3.2/scss/bootstrap.scss';
 
 // Dark mode
-
 $color-mode-type: data;
 
 @include color-mode(dark) {
@@ -12,11 +15,13 @@ $color-mode-type: data;
 }
 
 // Estilos generales
-
+body {
+    font-style: normal;
+}
 .glosary-nav {
     .nav-link {
         display: inline-block;
-        border: 1px solid $black;
+        //border: 1px solid $black;
         height: 50px;
         width: 60px;
         line-height: 50px;
