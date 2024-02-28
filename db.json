@@ -100,6 +100,14 @@
                 }
             ]
         },{
+            "letra" : "h",
+            "entradas" : [
+                {
+                    "nombre": "Header",
+                    "descripcion": "Se refiere a la sección superior de una página web, que generalmente contiene elementos clave, como el logotipo, la barra de navegación, y otras funciones importantes. El header sirve como punto focal para la identificación de la marca y la navegación del usuario, proporcionando una estructura visual coherente y facilitando el acceso a diversas secciones o características del sistema."
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
