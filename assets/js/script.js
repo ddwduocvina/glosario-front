@@ -97,6 +97,7 @@ request.onload = function () {
 function mostrarLista(jsonObj) {
   const letras = jsonObj["abecedario"];
 
+  // Lectura de elementos del JSON
   for (let i = 0; i < letras.length; i++) {
 
     // Letra Glosario Categoría
@@ -118,5 +119,39 @@ function mostrarLista(jsonObj) {
     letraGlosario.appendChild(sectionLetraGlosario);
     sectionLetraGlosario.appendChild(tituloLetraGlosario);
     sectionLetraGlosario.appendChild(entradasLetraGlosario);
+
+    // Ingreso de entradas por Letra del Glosario
+    const entradaIndividual = letras[i].entradas;
+
+    // Recorrido e impresión de entradas individuales
+    for (let j = 0; j < entradaIndividual.length; j++) {
+        const itemLista = document.createElement("div");
+        itemLista.classList.add("accordion-item","border-0");
+        const itemListaHeader = document.createElement("h3");
+        itemListaHeader.classList.add("accordion-header","mb-3");
+        const itemTituloBoton = document.createElement("button");
+        itemTituloBoton.classList.add("accordion-button","border","collapsed");
+        itemTituloBoton.setAttribute("type","button");
+        itemTituloBoton.setAttribute("data-bs-toggle","collapse");
+        itemTituloBoton.setAttribute("data-bs-target","#collapse"+ [j + 1] +"Section"+ letras[i].letra);
+        itemTituloBoton.setAttribute("aria-expanded","false");
+        itemTituloBoton.setAttribute("aria-controls","collapse"+ [j + 1] +"Section"+ letras[i].letra);
+        itemTituloBoton.textContent = entradaIndividual[j].nombre;
+        const itemEntrada = document.createElement("div");
+        itemEntrada.classList.add("accordion-collapse","collapse");
+        itemEntrada.setAttribute("id","collapse"+ [j + 1] +"Section"+ letras[i].letra);
+        itemEntrada.setAttribute("data-bs-parent","acordeonDespliegue" + letras[i].letra);
+        const itemEntradaDiv = document.createElement("div");
+        itemEntradaDiv.classList.add("accordion-body","pb-5");
+        itemEntradaDiv.innerHTML = entradaIndividual[j].descripcion;
+
+        // Ingreso de entrada individual
+        entradasLetraGlosario.appendChild(itemLista);
+        itemLista.appendChild(itemListaHeader);
+        itemListaHeader.appendChild(itemTituloBoton);
+        entradasLetraGlosario.appendChild(itemEntrada);
+        itemEntrada.appendChild(itemEntradaDiv);
+    }
+
   }
 }
