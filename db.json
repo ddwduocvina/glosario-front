@@ -2,7 +2,7 @@
     "titulo" : "Glosario",
     "abecedario" : [
         {
-            "letra" : "A",
+            "letra" : "a",
             "entradas" : [
                 {
                     "nombre": "Arquetipo de usuario",
@@ -10,7 +10,7 @@
                 }
             ]
         },{
-            "letra" : "B",
+            "letra" : "b",
             "entradas" : [
                 {
                     "nombre": "Brief",
@@ -21,7 +21,7 @@
                 }
             ]
         },{
-            "letra" : "D",
+            "letra" : "d",
             "entradas" : [
                 {
                     "nombre": "Diseño centrado en el usuario",
@@ -29,7 +29,7 @@
                 }
             ]
         },{
-            "letra" : "O",
+            "letra" : "o",
             "entradas" : [
                 {
                     "nombre": "Observación de campo",
@@ -37,7 +37,7 @@
                 }
             ]
         },{
-            "letra" : "R",
+            "letra" : "r",
             "entradas" : [
                 {
                     "nombre": "Research",

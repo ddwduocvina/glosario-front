@@ -77,7 +77,8 @@
 
 // Lectura de datos JSON  
 
-const Main = document.querySelector("main");
+const Lista = document.getElementById("glosary-list");
+const ul = document.querySelector("ul");
 
 const requestURL = "https://ddwduocvina.github.io/glosario-front/db.json";
 
@@ -89,7 +90,33 @@ request.send();
 
 request.onload = function () {
   const Glosario = request.response;
-  //mostrarLetras(Glosario);
-
+  mostrarLista(Glosario);
   console.log(Glosario)
 };
+
+function mostrarLista(jsonObj) {
+  const letras = jsonObj["abecedario"];
+
+  for (let i = 0; i < letras.length; i++) {
+
+    // Letra Glosario Categoría
+    const letraGlosario = document.createElement("div");
+    letraGlosario.classList.add("col-12","col-lg-6","col-xxl-4","glosary-item");
+    const sectionLetraGlosario = document.createElement("section");
+    sectionLetraGlosario.classList.add("py-5");
+    sectionLetraGlosario.setAttribute("id",letras[i].letra + "-section");
+    const tituloLetraGlosario = document.createElement("h2");
+    const entradasLetraGlosario = document.createElement("div");
+    entradasLetraGlosario.classList.add("accordion","border-0");
+    entradasLetraGlosario.setAttribute("id","acordeonDespliegue" + letras[i].letra);
+
+    // Ingreso de la letra
+    tituloLetraGlosario.innerHTML = letras[i].letra;
+
+    // Impresión de la Letra Glosario Categoría
+    Lista.appendChild(letraGlosario);
+    letraGlosario.appendChild(sectionLetraGlosario);
+    sectionLetraGlosario.appendChild(tituloLetraGlosario);
+    sectionLetraGlosario.appendChild(entradasLetraGlosario);
+  }
+}
