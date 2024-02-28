@@ -1,9 +1,5 @@
 [
     {
-        "categoria": "a",
-        "nombre": "dairy",
-        "descripcion": "Raw organic brown eggs in a basket"
-    },{
         "categoria": "d",
         "nombre": "Diseño centrado en el usuario",
         "descripcion": "El diseño centrado en el usuario es un proceso iterativo que dirige sus objetivos a los usuarios y sus necesidades. Se basa en la UX (User Xperience o Experiencia de Usuario) y busca articular, investigar, idear, implementar y medir un proyecto digital.Consta de cinco etapas que se dividen en la estrategia, el research, la arquitectura de la información, el diseño de interfaz, el desarrollo y el testeo."
