@@ -54,10 +54,18 @@
                     "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."                        
                 },{
                     "nombre": "Diseño de interfaz",
-                    "descripcion": ""
+                    "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."
                 },{
                     "nombre": "Diseño responsive",
                     "descripcion": "Se refiere a la práctica de desarrollar interfaces gráficas de usuario que se adaptan de manera fluida a diferentes tamaños de pantalla y dispositivos, garantizando una experiencia de usuario óptima y coherente. Este enfoque utiliza técnicas y tecnologías como consultas de medios y retículas flexibles para asegurar que el contenido y la disposición de los elementos se ajusten de manera efectiva a diversas resoluciones, desde dispositivos móviles hasta pantallas de escritorio, con el objetivo de ofrecer una navegación intuitiva y accesible en cualquier contexto."
+                }
+            ]
+        },{
+            "letra" : "e",
+            "entradas" : [
+                {
+                    "nombre": "Elementos de interfaz",
+                    "descripcion": "Son cada uno de los componentes visuales y funcionales que conforman la interacción entre un usuario y un sistema informático. Estos elementos incluyen botones, iconos, menús, barras de herramientas y otros elementos visuales que facilitan la navegación y la utilización de una aplicación o plataforma, proporcionando una experiencia de usuario intuitiva y eficiente. La disposición, diseño y comportamiento de estos elementos son fundamentales para crear interfaces efectivas y accesibles."                        
                 }
             ]
         },{
