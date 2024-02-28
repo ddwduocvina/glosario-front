@@ -1,8 +1,4 @@
-/*!
- * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
- * Copyright 2011-2023 The Bootstrap Authors
- * Licensed under the Creative Commons Attribution 3.0 Unported License.
- */
+// Modo oscuro 
 
 (() => {
     'use strict'
@@ -78,3 +74,20 @@
         })
     })
 })()
+
+// Lectura de datos JSON  
+
+const Main = document.querySelector("main");
+
+const requestURL = "https://ddwduocvina.github.io/glosario-front/db.json";
+
+const request = new XMLHttpRequest();
+
+request.open("GET", requestURL);
+request.responseType = "json";
+request.send();
+
+request.onload = function () {
+  const Glosario = request.response;
+  mostrarEquipo(Glosario);
+};
