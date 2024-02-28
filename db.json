@@ -19,8 +19,7 @@
                 {
                     "nombre": "Aside",
                     "descripcion": "Sección que se sitúa en un lateral del Main. Este elemento lateral puede contener información complementaria, funciones secundarias o contenido relevante, permitiendo a los usuarios acceder a detalles adicionales sin interferir significativamente con el flujo principal de la interfaz. El uso de &quot;Aside&quot; contribuye a organizar y presentar la información de manera jerárquica, mejorando la experiencia del usuario al proporcionar acceso rápido a detalles adicionales sin saturar la interfaz principal."
-                },
-                
+                }
             ]
         },{
             "letra" : "b",
@@ -31,6 +30,20 @@
                 },{
                     "nombre": "Brief",
                     "descripcion": "El brief es un resumen escrito que elabora el cliente en conjunto con el experto, y que debe contener y explicar con claridad los aspectos relevantes para el desarrollo del proyecto digital. Con esta herramienta podrás determinar los límites del proyecto y recopilar la información necesaria para elaborar una propuesta comercial, definir la estrategia que sustenta y condiciona el proyecto a desarrollar, los objetivos y metas, especificar los plazos de implementación y presupuestos para llevar el proyecto."            
+                }
+            ]
+        },{
+            "letra" : "c",
+            "entradas" : [
+                {
+                    "nombre": "Códigos gráficos",
+                    "descripcion": "Conjunto coherente de elementos visuales, como colores, tipografías, iconos, fotografías y otros componentes gráficos, que se utilizan de manera consistente en una aplicación o sitio web. Estos códigos buscan establecer una identidad visual única y cohesiva, proporcionando una experiencia de usuario uniforme y reconocible. La consistencia en la aplicación de estos códigos gráficos contribuye a la estética, legibilidad y usabilidad de la interfaz, mejorando la comunicación visual con los usuarios."
+                },{
+                    "nombre": "Color",
+                    "descripcion": "Se refiere a una propiedad visual que se percibe a través de la luz y se utiliza para transmitir información, acentuar elementos o mejorar la estética de una interfaz. La selección y combinación adecuadas de colores desempeñan un papel crucial en la experiencia del usuario, influyendo en la legibilidad, la jerarquía visual y la identidad de la marca, además de evocar emociones específicas. La utilización consciente del color contribuye a la claridad, coherencia y usabilidad general de la interfaz."
+                },{
+                    "nombre": "Columnas",
+                    "descripcion": "Son una estructura organizativa compuesta por líneas verticales que dividen la interfaz en segmentos uniformes. Estas columnas sirven como guías visuales para alinear y distribuir elementos de manera coherente y proporcional, facilitando la creación de diseños equilibrados y legibles. La retícula de columnas es una herramienta fundamental para mejorar la consistencia y la eficiencia en la disposición de contenidos en una interfaz, proporcionando una base visual sólida para la organización y la jerarquía de la información."                        
                 }
             ]
         },{
