@@ -69,6 +69,26 @@
                 }
             ]
         },{
+            "letra" : "f",
+            "entradas" : [
+                {
+                    "nombre": "Filas",
+                    "descripcion": "Son divisiones horizontales estructuradas y alineadas que se utilizan para organizar y alinear elementos visuales en una pantalla. Estas filas proporcionan una estructura visual coherente, mejoran la legibilidad y facilitan la disposición ordenada de elementos, contribuyendo así a la creación de una interfaz más equilibrada y estéticamente agradable para el usuario."                        
+                },{
+                    "nombre": "Footer",
+                    "descripcion": "Sección ubicada en la parte inferior de una página web, aplicación u otro producto digital que cierra la continuidad del main y evoca el fin de la página. Este componente visual suele contener información complementaria, enlaces de navegación, datos de contacto o elementos relacionados con la estructura y funcionalidad general del sistema, proporcionando una ubicación conveniente para elementos que no requieren la misma prominencia que el contenido principal de la interfaz."
+                },{
+                    "nombre": "Formatos de imagen",
+                    "descripcion": "Son estándares que especifican cómo se almacenan los datos visuales en un archivo. Cada formato tiene sus propias características, como la calidad de compresión y la capacidad para soportar transparencia. Algunos formatos comunes incluyen JPEG para fotografías, PNG para imágenes con fondo transparente y GIF para animaciones simples. La elección del formato depende de las necesidades específicas de visualización y almacenamiento de imágenes."                        
+                },{
+                    "nombre": "Fotografía",
+                    "descripcion": "Desempeña un papel fundamental en el diseño gráfico al comunicar información visual de manera impactante y efectiva. En el contexto del diseño, las imágenes fotográficas tienen la capacidad única de transmitir emociones, contar historias y captar la atención del espectador de manera inmediata. Al incorporar fotografías en un diseño, se añade un componente visual potente que complementa y refuerza el mensaje transmitido. Además, las imágenes pueden ayudar a establecer la identidad de una marca, transmitir la esencia de un producto o servicio, y crear una conexión emocional con el público objetivo. La elección cuidadosa de las fotografías, considerando aspectos como la composición, la iluminación y la paleta de colores, contribuye significativamente a la efectividad general del diseño."                        
+                },{
+                    "nombre": "Fuente tipográfica",
+                    "descripcion": "Conjunto de caracteres alfabéticos, numéricos y simbólicos que comparten un diseño coherente y un estilo visual específico. Estas fuentes son utilizadas en el diseño gráfico y la creación de interfaces de usuario para representar texto de manera legible y estéticamente agradable. Cada fuente tipográfica posee características únicas, como el estilo, el grosor, la altura de las letras y el espaciado entre caracteres, que influyen en la apariencia y la legibilidad del texto en un diseño. La elección cuidadosa de fuentes tipográficas es fundamental en el diseño de interfaces para transmitir la identidad visual y mejorar la experiencia del usuario."                        
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
