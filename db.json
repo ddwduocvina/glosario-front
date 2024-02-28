@@ -89,6 +89,17 @@
                 }
             ]
         },{
+            "letra" : "g",
+            "entradas" : [
+                {
+                    "nombre": "Guía de estilos",
+                    "descripcion": "Conjuntos de normas de diseño que proporcionan coherencia y consistencia a lo largo de un sitio web, aplicación o plataforma digital. Estas directrices abarcan elementos como la paleta de colores, tipografía, disposición de elementos, iconografía y otros aspectos visuales, con el objetivo de crear una experiencia de usuario unificada y estéticamente armoniosa. Las guías de estilo facilitan la colaboración entre diseñadores y desarrolladores al establecer estándares claros, garantizando una apariencia cohesiva y una interacción fluida para los usuarios finales."
+                },{
+                     "nombre": "GIF (Graphics Interchange Format)",
+                    "descripcion": "Este formato utiliza compresión sin pérdidas, pero está limitado a 8 bits, esto significa que es capaz de mostrar sólo 256 colores, resultando en una calidad menos nítida en comparación con formatos como JPEG. La limitación de 8 bits en el GIF contribuye a archivos más pequeños, haciéndolo ideal para contenidos de animación cortos. A pesar de su limitada calidad, es ampliamente utilizado para ofrecer contenido visual más dinámico que una imagen estática."
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
