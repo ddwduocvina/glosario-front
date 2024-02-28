@@ -5,9 +5,22 @@
             "letra" : "a",
             "entradas" : [
                 {
+                    "nombre": "Accesibilidad",
+                    "descripcion": "Se refiere a la práctica de crear productos digitales de manera que sean utilizables por la mayor cantidad posible de personas, independientemente de sus habilidades, discapacidades o condiciones. Esto implica diseñar interfaces que sean comprensibles, operables y navegables para una amplia variedad de usuarios, incluidos aquellos con limitaciones visuales, auditivas, motoras o cognitivas. En esencia, la accesibilidad busca garantizar que la información y las funciones sean accesibles de manera equitativa para todos, promoviendo la inclusión y proporcionando una experiencia de usuario positiva para cada individuo."
+                },
+                {
                     "nombre": "Arquetipo de usuario",
                     "descripcion": "El arquetipo es un estudio profundo de las cualidades, necesidades, motivaciones, intereses y alcances humanos que caracterizan al usuario que va a interactuar directamente con el producto o servicio de una marca, tomando en cuenta, las clasificaciones pertinentes sobre los aspectos positivos, negativos, neutros y potenciales que puede englobar el proceso. No son personas reales, sino personas creadas en base a las características que desprende la investigación que se está llevando a cabo. Es importante darle una cara, pensar en rasgos faciales, en un nombre, una edad y en una historia que contar, es decir, crear un personaje; ya que cuenta una historia, sus vivencias, frustraciones y dolores. El arquetipo constituye las condiciones y el rumbo lógico a seguir para los expertos, permitiendo así replantear objetivos en la investigación."
-                }
+                },
+                {
+                    "nombre": "Arquitectura de la información",
+                    "descripcion": "Diseño y organización estructurada de la información en sistemas, sitios web o cualquier otro entorno que involucra la presentación de datos. Su objetivo es facilitar la navegación, comprensión y acceso eficiente a la información, mediante la creación de estructuras lógicas, jerarquías y rótulos coherentes. Este campo busca optimizar la experiencia del usuario al asegurar que la información sea intuitiva, fácil de encontrar y comprendida de manera efectiva."
+                },
+                {
+                    "nombre": "Aside",
+                    "descripcion": "Sección que se sitúa en un lateral del Main. Este elemento lateral puede contener información complementaria, funciones secundarias o contenido relevante, permitiendo a los usuarios acceder a detalles adicionales sin interferir significativamente con el flujo principal de la interfaz. El uso de &quot;Aside&quot; contribuye a organizar y presentar la información de manera jerárquica, mejorando la experiencia del usuario al proporcionar acceso rápido a detalles adicionales sin saturar la interfaz principal."
+                },
+                
             ]
         },{
             "letra" : "b",
