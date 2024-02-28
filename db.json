@@ -51,7 +51,13 @@
             "entradas" : [
                 {
                     "nombre": "Diseño centrado en el usuario",
-                    "descripcion": "El diseño centrado en el usuario es un proceso iterativo que dirige sus objetivos a los usuarios y sus necesidades. Se basa en la UX (User Xperience o Experiencia de Usuario) y busca articular, investigar, idear, implementar y medir un proyecto digital.Consta de cinco etapas que se dividen en la estrategia, el research, la arquitectura de la información, el diseño de interfaz, el desarrollo y el testeo."                        
+                    "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."                        
+                },{
+                    "nombre": "Diseño de interfaz",
+                    "descripcion": ""
+                },{
+                    "nombre": "Diseño responsive",
+                    "descripcion": "Se refiere a la práctica de desarrollar interfaces gráficas de usuario que se adaptan de manera fluida a diferentes tamaños de pantalla y dispositivos, garantizando una experiencia de usuario óptima y coherente. Este enfoque utiliza técnicas y tecnologías como consultas de medios y retículas flexibles para asegurar que el contenido y la disposición de los elementos se ajusten de manera efectiva a diversas resoluciones, desde dispositivos móviles hasta pantallas de escritorio, con el objetivo de ofrecer una navegación intuitiva y accesible en cualquier contexto."
                 }
             ]
         },{
