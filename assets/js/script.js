@@ -89,5 +89,7 @@ request.send();
 
 request.onload = function () {
   const Glosario = request.response;
-  mostrarEquipo(Glosario);
+  //mostrarLetras(Glosario);
+
+  console.log(Glosario)
 };
