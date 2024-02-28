@@ -14,7 +14,7 @@
             "entradas" : [
                 {
                     "nombre": "Benchmark",
-                    "descripcion": "El benchmark es un análisis comparativo de productos o servicios de la competencia, en relación a un producto existente o a uno por lanzar. También es útil para analizar qué hacen y cómo trabajan los competidores con sus servicios o productos. La idea principal es contar con un punto de referencia proveniente del mercado."            
+                    "descripcion": "El <strong>benchmark</strong> es un análisis comparativo de productos o servicios de la competencia, en relación a un producto existente o a uno por lanzar. También es útil para analizar qué hacen y cómo trabajan los competidores con sus servicios o productos. La idea principal es contar con un punto de referencia proveniente del mercado."            
                 },{
                     "nombre": "Brief",
                     "descripcion": "El brief es un resumen escrito que elabora el cliente en conjunto con el experto, y que debe contener y explicar con claridad los aspectos relevantes para el desarrollo del proyecto digital. Con esta herramienta podrás determinar los límites del proyecto y recopilar la información necesaria para elaborar una propuesta comercial, definir la estrategia que sustenta y condiciona el proyecto a desarrollar, los objetivos y metas, especificar los plazos de implementación y presupuestos para llevar el proyecto."            
