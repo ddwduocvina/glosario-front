@@ -152,6 +152,5 @@ function mostrarLista(jsonObj) {
         entradasLetraGlosario.appendChild(itemEntrada);
         itemEntrada.appendChild(itemEntradaDiv);
     }
-
   }
 }

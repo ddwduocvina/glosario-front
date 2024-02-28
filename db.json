@@ -13,11 +13,11 @@
             "letra" : "b",
             "entradas" : [
                 {
-                    "nombre": "Brief",
-                    "descripcion": "El brief es un resumen escrito que elabora el cliente en conjunto con el experto, y que debe contener y explicar con claridad los aspectos relevantes para el desarrollo del proyecto digital. Con esta herramienta podrás determinar los límites del proyecto y recopilar la información necesaria para elaborar una propuesta comercial, definir la estrategia que sustenta y condiciona el proyecto a desarrollar, los objetivos y metas, especificar los plazos de implementación y presupuestos para llevar el proyecto."            
-                }, {
                     "nombre": "Benchmark",
                     "descripcion": "El benchmark es un análisis comparativo de productos o servicios de la competencia, en relación a un producto existente o a uno por lanzar. También es útil para analizar qué hacen y cómo trabajan los competidores con sus servicios o productos. La idea principal es contar con un punto de referencia proveniente del mercado."            
+                },{
+                    "nombre": "Brief",
+                    "descripcion": "El brief es un resumen escrito que elabora el cliente en conjunto con el experto, y que debe contener y explicar con claridad los aspectos relevantes para el desarrollo del proyecto digital. Con esta herramienta podrás determinar los límites del proyecto y recopilar la información necesaria para elaborar una propuesta comercial, definir la estrategia que sustenta y condiciona el proyecto a desarrollar, los objetivos y metas, especificar los plazos de implementación y presupuestos para llevar el proyecto."            
                 }
             ]
         },{
@@ -41,7 +41,7 @@
             "entradas" : [
                 {
                     "nombre": "Research",
-                    "descripcion": "La palabra &laquo;research&laquo; en inglés se traduce al español como &laquo;investigación&laquo;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
+                    "descripcion": "La palabra &quot;research&quot; en inglés se traduce al español como &quot;investigación&quot;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
                 },{
                     "nombre": "Referentes",
                     "descripcion": "En la UX, los referentes son fuentes de información, estudios previos o marcos teóricos que sirven como base para un nuevo estudio. Estos referentes ayudan a contextualizar, respaldar o fundamentar la investigación."                                                
