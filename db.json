@@ -130,6 +130,14 @@
                 }
             ]
         },{
+            "letra" : "l",
+            "entradas" : [
+                {
+                    "nombre": "Layout web",
+                    "descripcion": "Se refiere a la estructura y disposición visual de los elementos en una página web. Incluye la organización y distribución de contenidos, como texto, imágenes y otros elementos, con el objetivo de proporcionar una experiencia de usuario coherente y efectiva. El diseño del layout web busca mejorar la legibilidad, la navegación y la comprensión de la información, asegurando que la interfaz sea estéticamente agradable y funcional para los usuarios."
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
