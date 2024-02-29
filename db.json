@@ -207,6 +207,14 @@
                      "descripcion": "Son archivos basados en vectores, lo que implica que su calidad no se pierde al ampliarse. Puede insertarse directamente en páginas web mediante código CSS, siendo compacto en tamaño. Aunque admite transparencia y animaciones, se recomienda para formas simples como logotipos e iconos."
                 }
             ]
-        },
+        },{
+            "letra" : "u",
+            "entradas" : [
+                {
+                    "nombre": "Usabilidad",
+                    "descripcion": "Se refiere a la medida en que un sistema o producto digital facilita y optimiza la experiencia del usuario al interactuar con él, buscando asegurar que la interfaz sea intuitiva, eficiente y satisfactoria. En términos simples, se centra en la capacidad del diseño para permitir a los usuarios realizar sus tareas de manera efectiva y agradable, minimizando posibles confusiones o dificultades durante la interacción."
+                }
+            ]
+        }
     ]
 }
