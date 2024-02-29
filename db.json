@@ -108,6 +108,28 @@
                 }
             ]
         },{
+            "letra" : "i",
+            "entradas" : [
+                {
+                    "nombre": "Iconografía",
+                    "descripcion": "Se refiere al uso y diseño de iconos visuales para representar conceptos, acciones o funciones específicas de manera intuitiva y concisa. Estos elementos gráficos, a menudo pequeños y simbólicos, se emplean para proporcionar una representación visual rápida y comprensible de información o acciones dentro de una interfaz. La iconografía contribuye a la claridad y eficiencia en la comunicación visual, facilitando la navegación y la comprensión de la interfaz por parte del usuario."
+                },{
+                    "nombre": "Interfaz gráfica de usuario",
+                    "descripcion": "Comúnmente conocida como GUI (graphic user interface), es un medio visual y táctil que permite a los usuarios interactuar con dispositivos electrónicos y programas informáticos mediante la representación gráfica de elementos como iconos, botones, menús y ventanas. Su objetivo es facilitar la comunicación entre los usuarios y las máquinas, simplificando la interacción y proporcionando una experiencia intuitiva y eficiente."
+                },{
+                    "nombre": "Inventario de contenidos",
+                    "descripcion": "Proceso sistemático de recopilación y documentación de todos los elementos de contenido presentes en un sitio web, aplicación u otro producto digital. Este ejercicio incluye la identificación y registro detallado de páginas, documentos, multimedia y cualquier otro componente relevante, con el objetivo de proporcionar una visión integral de la estructura y el alcance del contenido disponible. El inventario de contenidos facilita la gestión, organización y toma de decisiones relacionadas con la información digital, contribuyendo así a una mejor experiencia del usuario y una administración más eficiente de los recursos digitales."
+                }
+            ]
+        },{
+            "letra" : "j",
+            "entradas" : [
+                {
+                    "nombre": "JPG - JPEG (Joint Photographic Experts Group)",
+                    "descripcion": "Ambos son formatos de archivo similares con distintas siglas y extensiones. Desarrollado por el Joint Photographic Experts Group, el formato JPEG es una imagen de trama que utiliza compresión con pérdida, eliminando datos para reducir el tamaño del archivo y afectando la calidad de la imagen. Este formato permite hasta 24 bits por píxel, ofreciendo 16.777.216 variaciones de color y se emplea comúnmente en cámaras digitales y para impresiones que no requieren edición. Su principal ventaja radica en el tamaño de archivo reducido, lo que resulta ideal para ahorrar espacio en el disco o tarjeta de memoria. Además, es óptimo para la web debido a su carga rápida y una pérdida de calidad apenas perceptible. Sin embargo, no es adecuado para imágenes que contengan líneas de texto, como capturas de pantalla de tutoriales o infografías, debido a la compresión con pérdida."
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
