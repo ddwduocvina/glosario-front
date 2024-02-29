@@ -138,6 +138,23 @@
                 }
             ]
         },{
+            "letra" : "m",
+            "entradas" : [
+                {
+                    "nombre": "Main",
+                    "descripcion": "Se refiere a la sección principal de un sitio web. Allí se presenta la información principal y proporciona acceso a las funciones clave de la aplicación desde la cual los usuarios pueden interactuar con la plataforma y acceder a sus diversas características y herramientas."
+                },{
+                    "nombre": "Mapa de navegación", 
+                    "descripcion": "Representación visual y estructurada de la arquitectura de un sitio web, aplicación u otro producto digital, que muestra la disposición y relación entre sus páginas o secciones. Este recurso facilita la comprensión de la organización del contenido, permitiendo a los usuarios visualizar la jerarquía y flujo de información, lo que contribuye a una experiencia de navegación más clara y eficiente."
+                },{
+                    "nombre": "Márgenes / Margin",
+                    "descripcion": "Se refiere al espacio en blanco que rodea los elementos visuales dentro de un componente o pantalla. Estos espacios proporcionan separación y equilibrio visual, mejorando la legibilidad y la estética general de la interfaz al evitar la congestión y permitir una disposición ordenada de los elementos. Los márgenes son un componente clave para el diseño eficaz, ya que contribuyen a la claridad y la usabilidad de la interfaz al crear un espacio definido entre diferentes elementos y áreas de contenido."
+                },{
+                    "nombre": "Mockups",
+                    "descripcion": "Representaciones visuales estáticas o interactivas de un diseño de interfaz gráfica de usuario (GUI), que sirven para visualizar y comunicar la estructura, disposición y aspecto visual de una aplicación o sitio web antes de su implementación. Estas representaciones suelen incluir elementos gráficos como botones, menús, tipografías y otros elementos de diseño, proporcionando una vista previa realista de la apariencia final del producto. Los mockups facilitan la evaluación y retroalimentación temprana, permitiendo a los diseñadores y stakeholders visualizar y validar conceptos de diseño antes de pasar a la fase de desarrollo."
+                }
+            ]
+        },{
             "letra" : "o",
             "entradas" : [
                 {
