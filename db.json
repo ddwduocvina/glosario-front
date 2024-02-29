@@ -163,14 +163,31 @@
                 }
             ]
         },{
+            "letra" : "p",
+            "entradas" : [
+                {
+                    "nombre": "PNG (Portable Network Graphics)",
+                    "descripcion": "Es una opción de trama con compresión sin pérdidas, preservando los datos originales y manteniendo una calidad de imagen constante, a diferencia del JPEG. Destaca por su claridad visual, siendo ideal para gráficos con énfasis en el texto, como capturas de pantalla, infografías o banners. Optimizado para el uso digital, el PNG es ampliamente utilizado, admite hasta 16 millones de colores y conserva la transparencia, siendo ideal para logotipos vibrantes. Aunque crea archivos más grandes que el JPEG en fotos de alta resolución, es una elección excelente para presentar trabajos de diseño y fotografías en sitios web, aunque se debe tener precaución para no afectar la velocidad del sitio."
+                }
+            ]
+        },{
             "letra" : "r",
             "entradas" : [
                 {
+                    "nombre": "Referentes",
+                    "descripcion": "En la UX, los referentes son fuentes de información, estudios previos o marcos teóricos que sirven como base para un nuevo estudio. Estos referentes ayudan a contextualizar, respaldar o fundamentar la investigación."                                                
+                },{
+                    "nombre": "Relleno / Padding",
+                    "descripcion": "Se refiere al espacio adicional alrededor del contenido dentro de un elemento, como un cuadro de texto, botón o área de visualización. Estos tipos de márgenes internos sirven para mejorar la legibilidad, la estética y la usabilidad al proporcionar un espacio de separación entre el contenido y los límites del elemento, evitando así que los elementos adyacentes se superpongan. Ajustar los paddings de manera adecuada contribuye a una experiencia de usuario más cómoda y visualmente equilibrada."
+                },{
                     "nombre": "Research",
                     "descripcion": "La palabra &quot;research&quot; en inglés se traduce al español como &quot;investigación&quot;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
                 },{
-                    "nombre": "Referentes",
-                    "descripcion": "En la UX, los referentes son fuentes de información, estudios previos o marcos teóricos que sirven como base para un nuevo estudio. Estos referentes ayudan a contextualizar, respaldar o fundamentar la investigación."                                                
+                     "nombre": "Retícula",
+                     "descripcion": "Sistema de líneas invisibles que estructuran y organizan los elementos visuales en una pantalla. Esta rejilla proporciona un marco consistente y ayuda a los diseñadores a alinear y distribuir elementos de manera equilibrada, mejorando la legibilidad, la coherencia y la estética general de la interfaz. La retícula es una herramienta fundamental para establecer un diseño ordenado y facilitar la navegación del usuario a través de la interfaz."
+                },{
+                    "nombre": "Rótulo",
+                    "descripcion": "En el contexto de la arquitectura de la información, un rótulo se refiere a un elemento de texto o etiqueta utilizado para identificar y clasificar información. Los rótulos son fundamentales para organizar y estructurar el contenido, facilitando la navegación y comprensión de un sistema o espacio de información. Su objetivo principal es proporcionar una descripción concisa y clara que ayude a los usuarios a entender el contenido al que se refiere y a orientarse eficientemente dentro de una estructura de información."
                 }
             ]
         }
