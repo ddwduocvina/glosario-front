@@ -190,6 +190,23 @@
                     "descripcion": "En el contexto de la arquitectura de la información, un rótulo se refiere a un elemento de texto o etiqueta utilizado para identificar y clasificar información. Los rótulos son fundamentales para organizar y estructurar el contenido, facilitando la navegación y comprensión de un sistema o espacio de información. Su objetivo principal es proporcionar una descripción concisa y clara que ayude a los usuarios a entender el contenido al que se refiere y a orientarse eficientemente dentro de una estructura de información."
                 }
             ]
-        }
+        },{
+            "letra" : "s",
+            "entradas" : [
+                {
+                    "nombre": "SEO",
+                    "descripcion": "Search Engine Optimization (Optimización para Motores de Búsqueda), es un conjunto de estrategias y técnicas diseñadas para mejorar la visibilidad y relevancia de un sitio web en los resultados de búsqueda orgánica de los motores de búsqueda. El objetivo principal del SEO es aumentar la cantidad y calidad del tráfico dirigido al sitio, optimizando factores como palabras clave, estructura del contenido, enlaces internos y externos, entre otros, con el fin de mejorar la posición de la página en los resultados de búsqueda y ofrecer una experiencia más satisfactoria para los usuarios."
+                },{
+                    "nombre": "Software de prototipado:",
+                    "descripcion": "Herramienta diseñada para facilitar el proceso de creación y visualización de prototipos interactivos de interfaces gráficas de usuario (GUI). Estas aplicaciones permiten a los diseñadores y desarrolladores representar de manera rápida y eficiente la apariencia y la funcionalidad de una interfaz antes de su implementación final."
+                },{
+                    "nombre": "Stakeholders",
+                    "descripcion": "También conocidos como partes interesadas, son individuos, grupos o entidades que tienen un interés, participación o afectación en un proyecto, proceso o empresa. En el contexto del diseño de interfaz gráfica de usuario, los stakeholders pueden incluir a clientes, usuarios finales, diseñadores, desarrolladores, gerentes de proyecto y otros interesados relevantes. La colaboración efectiva con los stakeholders es crucial para comprender sus necesidades, expectativas y objetivos, lo que contribuye a la creación de una interfaz que satisfaga las diversas perspectivas y requisitos del proyecto."
+                },{
+                    "nombre": "SVG (Scalable Vector Graphics)",
+                     "descripcion": "Son archivos basados en vectores, lo que implica que su calidad no se pierde al ampliarse. Puede insertarse directamente en páginas web mediante código CSS, siendo compacto en tamaño. Aunque admite transparencia y animaciones, se recomienda para formas simples como logotipos e iconos."
+                }
+            ]
+        },
     ]
 }
