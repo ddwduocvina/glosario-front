@@ -215,6 +215,18 @@
                     "descripcion": "Se refiere a la medida en que un sistema o producto digital facilita y optimiza la experiencia del usuario al interactuar con él, buscando asegurar que la interfaz sea intuitiva, eficiente y satisfactoria. En términos simples, se centra en la capacidad del diseño para permitir a los usuarios realizar sus tareas de manera efectiva y agradable, minimizando posibles confusiones o dificultades durante la interacción."
                 }
             ]
+        },{
+            "letra" : "w",
+            "entradas" : [
+                {    
+                    "nombre": "WebP",
+                     "descripcion": "Desarrollado por Google, este formato ofrece una compresión eficiente de imágenes para su implementación en la web, reduciendo el tamaño de archivo sin comprometer la calidad y mejorando los tiempos de carga en páginas web. Permite elegir entre compresión con pérdida o sin ella, lo que significa que las imágenes pueden ser comprimidas sin perder detalles importantes. Al igual que PNG, WebP admite transparencia, siendo útil para imágenes con fondos transparentes y animaciones con una compresión más eficiente. Dado que fue desarrollado por Google, ha sido ampliamente adoptado en sus servicios y aplicaciones, ganando popularidad a medida que más navegadores y plataformas lo admiten."
+                    
+                },{
+                    "nombre": "Wireframes",
+                    "descripcion": "Los wireframes son representaciones visuales de la estructura y disposición de los elementos en una interfaz gráfica de usuario. Estas representaciones, que suelen ser esquemáticas y de baja fidelidad, sirven para planificar y comunicar la disposición de elementos clave, como botones, menús y secciones, en una interfaz antes de pasar a etapas más detalladas del diseño. Los wireframes se centran en la disposición y el flujo de información, proporcionando una guía visual para el desarrollo y la implementación de interfaces efectivas y funcionales."
+                }
+            ]
         }
     ]
 }
