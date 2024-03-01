@@ -40,11 +40,11 @@
             "letra" : "r",
             "entradas" : [
                 {
-                    "nombre": "Research",
-                    "descripcion": "La palabra &quot;research&quot; en inglés se traduce al español como &quot;investigación&quot;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
-                },{
                     "nombre": "Referentes",
                     "descripcion": "En la UX, los referentes son fuentes de información, estudios previos o marcos teóricos que sirven como base para un nuevo estudio. Estos referentes ayudan a contextualizar, respaldar o fundamentar la investigación."                                                
+                },{
+                    "nombre": "Research",
+                    "descripcion": "La palabra &quot;research&quot; en inglés se traduce al español como &quot;investigación&quot;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
                 }
             ]
         }
