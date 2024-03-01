@@ -5,8 +5,20 @@
             "letra" : "a",
             "entradas" : [
                 {
+                    "nombre": "Accesibilidad",
+                    "descripcion": "Se refiere a la práctica de crear productos digitales de manera que sean utilizables por la mayor cantidad posible de personas, independientemente de sus habilidades, discapacidades o condiciones. Esto implica diseñar interfaces que sean comprensibles, operables y navegables para una amplia variedad de usuarios, incluidos aquellos con limitaciones visuales, auditivas, motoras o cognitivas. En esencia, la accesibilidad busca garantizar que la información y las funciones sean accesibles de manera equitativa para todos, promoviendo la inclusión y proporcionando una experiencia de usuario positiva para cada individuo."
+                },
+                {
                     "nombre": "Arquetipo de usuario",
                     "descripcion": "El arquetipo es un estudio profundo de las cualidades, necesidades, motivaciones, intereses y alcances humanos que caracterizan al usuario que va a interactuar directamente con el producto o servicio de una marca, tomando en cuenta, las clasificaciones pertinentes sobre los aspectos positivos, negativos, neutros y potenciales que puede englobar el proceso. No son personas reales, sino personas creadas en base a las características que desprende la investigación que se está llevando a cabo. Es importante darle una cara, pensar en rasgos faciales, en un nombre, una edad y en una historia que contar, es decir, crear un personaje; ya que cuenta una historia, sus vivencias, frustraciones y dolores. El arquetipo constituye las condiciones y el rumbo lógico a seguir para los expertos, permitiendo así replantear objetivos en la investigación."
+                },
+                {
+                    "nombre": "Arquitectura de la información",
+                    "descripcion": "Diseño y organización estructurada de la información en sistemas, sitios web o cualquier otro entorno que involucra la presentación de datos. Su objetivo es facilitar la navegación, comprensión y acceso eficiente a la información, mediante la creación de estructuras lógicas, jerarquías y rótulos coherentes. Este campo busca optimizar la experiencia del usuario al asegurar que la información sea intuitiva, fácil de encontrar y comprendida de manera efectiva."
+                },
+                {
+                    "nombre": "Aside",
+                    "descripcion": "Sección que se sitúa en un lateral del Main. Este elemento lateral puede contener información complementaria, funciones secundarias o contenido relevante, permitiendo a los usuarios acceder a detalles adicionales sin interferir significativamente con el flujo principal de la interfaz. El uso de &quot;Aside&quot; contribuye a organizar y presentar la información de manera jerárquica, mejorando la experiencia del usuario al proporcionar acceso rápido a detalles adicionales sin saturar la interfaz principal."
                 }
             ]
         },{
@@ -21,11 +33,125 @@
                 }
             ]
         },{
+            "letra" : "c",
+            "entradas" : [
+                {
+                    "nombre": "Códigos gráficos",
+                    "descripcion": "Conjunto coherente de elementos visuales, como colores, tipografías, iconos, fotografías y otros componentes gráficos, que se utilizan de manera consistente en una aplicación o sitio web. Estos códigos buscan establecer una identidad visual única y cohesiva, proporcionando una experiencia de usuario uniforme y reconocible. La consistencia en la aplicación de estos códigos gráficos contribuye a la estética, legibilidad y usabilidad de la interfaz, mejorando la comunicación visual con los usuarios."
+                },{
+                    "nombre": "Color",
+                    "descripcion": "Se refiere a una propiedad visual que se percibe a través de la luz y se utiliza para transmitir información, acentuar elementos o mejorar la estética de una interfaz. La selección y combinación adecuadas de colores desempeñan un papel crucial en la experiencia del usuario, influyendo en la legibilidad, la jerarquía visual y la identidad de la marca, además de evocar emociones específicas. La utilización consciente del color contribuye a la claridad, coherencia y usabilidad general de la interfaz."
+                },{
+                    "nombre": "Columnas",
+                    "descripcion": "Son una estructura organizativa compuesta por líneas verticales que dividen la interfaz en segmentos uniformes. Estas columnas sirven como guías visuales para alinear y distribuir elementos de manera coherente y proporcional, facilitando la creación de diseños equilibrados y legibles. La retícula de columnas es una herramienta fundamental para mejorar la consistencia y la eficiencia en la disposición de contenidos en una interfaz, proporcionando una base visual sólida para la organización y la jerarquía de la información."                        
+                }
+            ]
+        },{
             "letra" : "d",
             "entradas" : [
                 {
                     "nombre": "Diseño centrado en el usuario",
-                    "descripcion": "El diseño centrado en el usuario es un proceso iterativo que dirige sus objetivos a los usuarios y sus necesidades. Se basa en la UX (User Xperience o Experiencia de Usuario) y busca articular, investigar, idear, implementar y medir un proyecto digital.Consta de cinco etapas que se dividen en la estrategia, el research, la arquitectura de la información, el diseño de interfaz, el desarrollo y el testeo."                        
+                    "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."                        
+                },{
+                    "nombre": "Diseño de interfaz",
+                    "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."
+                },{
+                    "nombre": "Diseño responsive",
+                    "descripcion": "Se refiere a la práctica de desarrollar interfaces gráficas de usuario que se adaptan de manera fluida a diferentes tamaños de pantalla y dispositivos, garantizando una experiencia de usuario óptima y coherente. Este enfoque utiliza técnicas y tecnologías como consultas de medios y retículas flexibles para asegurar que el contenido y la disposición de los elementos se ajusten de manera efectiva a diversas resoluciones, desde dispositivos móviles hasta pantallas de escritorio, con el objetivo de ofrecer una navegación intuitiva y accesible en cualquier contexto."
+                }
+            ]
+        },{
+            "letra" : "e",
+            "entradas" : [
+                {
+                    "nombre": "Elementos de interfaz",
+                    "descripcion": "Son cada uno de los componentes visuales y funcionales que conforman la interacción entre un usuario y un sistema informático. Estos elementos incluyen botones, iconos, menús, barras de herramientas y otros elementos visuales que facilitan la navegación y la utilización de una aplicación o plataforma, proporcionando una experiencia de usuario intuitiva y eficiente. La disposición, diseño y comportamiento de estos elementos son fundamentales para crear interfaces efectivas y accesibles."                        
+                }
+            ]
+        },{
+            "letra" : "f",
+            "entradas" : [
+                {
+                    "nombre": "Filas",
+                    "descripcion": "Son divisiones horizontales estructuradas y alineadas que se utilizan para organizar y alinear elementos visuales en una pantalla. Estas filas proporcionan una estructura visual coherente, mejoran la legibilidad y facilitan la disposición ordenada de elementos, contribuyendo así a la creación de una interfaz más equilibrada y estéticamente agradable para el usuario."                        
+                },{
+                    "nombre": "Footer",
+                    "descripcion": "Sección ubicada en la parte inferior de una página web, aplicación u otro producto digital que cierra la continuidad del main y evoca el fin de la página. Este componente visual suele contener información complementaria, enlaces de navegación, datos de contacto o elementos relacionados con la estructura y funcionalidad general del sistema, proporcionando una ubicación conveniente para elementos que no requieren la misma prominencia que el contenido principal de la interfaz."
+                },{
+                    "nombre": "Formatos de imagen",
+                    "descripcion": "Son estándares que especifican cómo se almacenan los datos visuales en un archivo. Cada formato tiene sus propias características, como la calidad de compresión y la capacidad para soportar transparencia. Algunos formatos comunes incluyen JPEG para fotografías, PNG para imágenes con fondo transparente y GIF para animaciones simples. La elección del formato depende de las necesidades específicas de visualización y almacenamiento de imágenes."                        
+                },{
+                    "nombre": "Fotografía",
+                    "descripcion": "Desempeña un papel fundamental en el diseño gráfico al comunicar información visual de manera impactante y efectiva. En el contexto del diseño, las imágenes fotográficas tienen la capacidad única de transmitir emociones, contar historias y captar la atención del espectador de manera inmediata. Al incorporar fotografías en un diseño, se añade un componente visual potente que complementa y refuerza el mensaje transmitido. Además, las imágenes pueden ayudar a establecer la identidad de una marca, transmitir la esencia de un producto o servicio, y crear una conexión emocional con el público objetivo. La elección cuidadosa de las fotografías, considerando aspectos como la composición, la iluminación y la paleta de colores, contribuye significativamente a la efectividad general del diseño."                        
+                },{
+                    "nombre": "Fuente tipográfica",
+                    "descripcion": "Conjunto de caracteres alfabéticos, numéricos y simbólicos que comparten un diseño coherente y un estilo visual específico. Estas fuentes son utilizadas en el diseño gráfico y la creación de interfaces de usuario para representar texto de manera legible y estéticamente agradable. Cada fuente tipográfica posee características únicas, como el estilo, el grosor, la altura de las letras y el espaciado entre caracteres, que influyen en la apariencia y la legibilidad del texto en un diseño. La elección cuidadosa de fuentes tipográficas es fundamental en el diseño de interfaces para transmitir la identidad visual y mejorar la experiencia del usuario."                        
+                }
+            ]
+        },{
+            "letra" : "g",
+            "entradas" : [
+                {
+                    "nombre": "Guía de estilos",
+                    "descripcion": "Conjuntos de normas de diseño que proporcionan coherencia y consistencia a lo largo de un sitio web, aplicación o plataforma digital. Estas directrices abarcan elementos como la paleta de colores, tipografía, disposición de elementos, iconografía y otros aspectos visuales, con el objetivo de crear una experiencia de usuario unificada y estéticamente armoniosa. Las guías de estilo facilitan la colaboración entre diseñadores y desarrolladores al establecer estándares claros, garantizando una apariencia cohesiva y una interacción fluida para los usuarios finales."
+                },{
+                     "nombre": "GIF (Graphics Interchange Format)",
+                    "descripcion": "Este formato utiliza compresión sin pérdidas, pero está limitado a 8 bits, esto significa que es capaz de mostrar sólo 256 colores, resultando en una calidad menos nítida en comparación con formatos como JPEG. La limitación de 8 bits en el GIF contribuye a archivos más pequeños, haciéndolo ideal para contenidos de animación cortos. A pesar de su limitada calidad, es ampliamente utilizado para ofrecer contenido visual más dinámico que una imagen estática."
+                }
+            ]
+        },{
+            "letra" : "h",
+            "entradas" : [
+                {
+                    "nombre": "Header",
+                    "descripcion": "Se refiere a la sección superior de una página web, que generalmente contiene elementos clave, como el logotipo, la barra de navegación, y otras funciones importantes. El header sirve como punto focal para la identificación de la marca y la navegación del usuario, proporcionando una estructura visual coherente y facilitando el acceso a diversas secciones o características del sistema."
+                }
+            ]
+        },{
+            "letra" : "i",
+            "entradas" : [
+                {
+                    "nombre": "Iconografía",
+                    "descripcion": "Se refiere al uso y diseño de iconos visuales para representar conceptos, acciones o funciones específicas de manera intuitiva y concisa. Estos elementos gráficos, a menudo pequeños y simbólicos, se emplean para proporcionar una representación visual rápida y comprensible de información o acciones dentro de una interfaz. La iconografía contribuye a la claridad y eficiencia en la comunicación visual, facilitando la navegación y la comprensión de la interfaz por parte del usuario."
+                },{
+                    "nombre": "Interfaz gráfica de usuario",
+                    "descripcion": "Comúnmente conocida como GUI (graphic user interface), es un medio visual y táctil que permite a los usuarios interactuar con dispositivos electrónicos y programas informáticos mediante la representación gráfica de elementos como iconos, botones, menús y ventanas. Su objetivo es facilitar la comunicación entre los usuarios y las máquinas, simplificando la interacción y proporcionando una experiencia intuitiva y eficiente."
+                },{
+                    "nombre": "Inventario de contenidos",
+                    "descripcion": "Proceso sistemático de recopilación y documentación de todos los elementos de contenido presentes en un sitio web, aplicación u otro producto digital. Este ejercicio incluye la identificación y registro detallado de páginas, documentos, multimedia y cualquier otro componente relevante, con el objetivo de proporcionar una visión integral de la estructura y el alcance del contenido disponible. El inventario de contenidos facilita la gestión, organización y toma de decisiones relacionadas con la información digital, contribuyendo así a una mejor experiencia del usuario y una administración más eficiente de los recursos digitales."
+                }
+            ]
+        },{
+            "letra" : "j",
+            "entradas" : [
+                {
+                    "nombre": "JPG - JPEG (Joint Photographic Experts Group)",
+                    "descripcion": "Ambos son formatos de archivo similares con distintas siglas y extensiones. Desarrollado por el Joint Photographic Experts Group, el formato JPEG es una imagen de trama que utiliza compresión con pérdida, eliminando datos para reducir el tamaño del archivo y afectando la calidad de la imagen. Este formato permite hasta 24 bits por píxel, ofreciendo 16.777.216 variaciones de color y se emplea comúnmente en cámaras digitales y para impresiones que no requieren edición. Su principal ventaja radica en el tamaño de archivo reducido, lo que resulta ideal para ahorrar espacio en el disco o tarjeta de memoria. Además, es óptimo para la web debido a su carga rápida y una pérdida de calidad apenas perceptible. Sin embargo, no es adecuado para imágenes que contengan líneas de texto, como capturas de pantalla de tutoriales o infografías, debido a la compresión con pérdida."
+                }
+            ]
+        },{
+            "letra" : "l",
+            "entradas" : [
+                {
+                    "nombre": "Layout web",
+                    "descripcion": "Se refiere a la estructura y disposición visual de los elementos en una página web. Incluye la organización y distribución de contenidos, como texto, imágenes y otros elementos, con el objetivo de proporcionar una experiencia de usuario coherente y efectiva. El diseño del layout web busca mejorar la legibilidad, la navegación y la comprensión de la información, asegurando que la interfaz sea estéticamente agradable y funcional para los usuarios."
+                }
+            ]
+        },{
+            "letra" : "m",
+            "entradas" : [
+                {
+                    "nombre": "Main",
+                    "descripcion": "Se refiere a la sección principal de un sitio web. Allí se presenta la información principal y proporciona acceso a las funciones clave de la aplicación desde la cual los usuarios pueden interactuar con la plataforma y acceder a sus diversas características y herramientas."
+                },{
+                    "nombre": "Mapa de navegación", 
+                    "descripcion": "Representación visual y estructurada de la arquitectura de un sitio web, aplicación u otro producto digital, que muestra la disposición y relación entre sus páginas o secciones. Este recurso facilita la comprensión de la organización del contenido, permitiendo a los usuarios visualizar la jerarquía y flujo de información, lo que contribuye a una experiencia de navegación más clara y eficiente."
+                },{
+                    "nombre": "Márgenes / Margin",
+                    "descripcion": "Se refiere al espacio en blanco que rodea los elementos visuales dentro de un componente o pantalla. Estos espacios proporcionan separación y equilibrio visual, mejorando la legibilidad y la estética general de la interfaz al evitar la congestión y permitir una disposición ordenada de los elementos. Los márgenes son un componente clave para el diseño eficaz, ya que contribuyen a la claridad y la usabilidad de la interfaz al crear un espacio definido entre diferentes elementos y áreas de contenido."
+                },{
+                    "nombre": "Mockups",
+                    "descripcion": "Representaciones visuales estáticas o interactivas de un diseño de interfaz gráfica de usuario (GUI), que sirven para visualizar y comunicar la estructura, disposición y aspecto visual de una aplicación o sitio web antes de su implementación. Estas representaciones suelen incluir elementos gráficos como botones, menús, tipografías y otros elementos de diseño, proporcionando una vista previa realista de la apariencia final del producto. Los mockups facilitan la evaluación y retroalimentación temprana, permitiendo a los diseñadores y stakeholders visualizar y validar conceptos de diseño antes de pasar a la fase de desarrollo."
                 }
             ]
         },{
@@ -37,14 +163,68 @@
                 }
             ]
         },{
+            "letra" : "p",
+            "entradas" : [
+                {
+                    "nombre": "PNG (Portable Network Graphics)",
+                    "descripcion": "Es una opción de trama con compresión sin pérdidas, preservando los datos originales y manteniendo una calidad de imagen constante, a diferencia del JPEG. Destaca por su claridad visual, siendo ideal para gráficos con énfasis en el texto, como capturas de pantalla, infografías o banners. Optimizado para el uso digital, el PNG es ampliamente utilizado, admite hasta 16 millones de colores y conserva la transparencia, siendo ideal para logotipos vibrantes. Aunque crea archivos más grandes que el JPEG en fotos de alta resolución, es una elección excelente para presentar trabajos de diseño y fotografías en sitios web, aunque se debe tener precaución para no afectar la velocidad del sitio."
+                }
+            ]
+        },{
             "letra" : "r",
             "entradas" : [
                 {
                     "nombre": "Referentes",
                     "descripcion": "En la UX, los referentes son fuentes de información, estudios previos o marcos teóricos que sirven como base para un nuevo estudio. Estos referentes ayudan a contextualizar, respaldar o fundamentar la investigación."                                                
                 },{
+                    "nombre": "Relleno / Padding",
+                    "descripcion": "Se refiere al espacio adicional alrededor del contenido dentro de un elemento, como un cuadro de texto, botón o área de visualización. Estos tipos de márgenes internos sirven para mejorar la legibilidad, la estética y la usabilidad al proporcionar un espacio de separación entre el contenido y los límites del elemento, evitando así que los elementos adyacentes se superpongan. Ajustar los paddings de manera adecuada contribuye a una experiencia de usuario más cómoda y visualmente equilibrada."
+                },{
                     "nombre": "Research",
                     "descripcion": "La palabra &quot;research&quot; en inglés se traduce al español como &quot;investigación&quot;. Se refiere al proceso de buscar información, estudiar y recopilar datos con el fin de obtener conocimientos sobre un tema específico. La investigación puede llevarse a cabo en diversos campos, como la ciencia, la tecnología, las ciencias sociales, entre otros."                                    
+                },{
+                     "nombre": "Retícula",
+                     "descripcion": "Sistema de líneas invisibles que estructuran y organizan los elementos visuales en una pantalla. Esta rejilla proporciona un marco consistente y ayuda a los diseñadores a alinear y distribuir elementos de manera equilibrada, mejorando la legibilidad, la coherencia y la estética general de la interfaz. La retícula es una herramienta fundamental para establecer un diseño ordenado y facilitar la navegación del usuario a través de la interfaz."
+                },{
+                    "nombre": "Rótulo",
+                    "descripcion": "En el contexto de la arquitectura de la información, un rótulo se refiere a un elemento de texto o etiqueta utilizado para identificar y clasificar información. Los rótulos son fundamentales para organizar y estructurar el contenido, facilitando la navegación y comprensión de un sistema o espacio de información. Su objetivo principal es proporcionar una descripción concisa y clara que ayude a los usuarios a entender el contenido al que se refiere y a orientarse eficientemente dentro de una estructura de información."
+                }
+            ]
+        },{
+            "letra" : "s",
+            "entradas" : [
+                {
+                    "nombre": "SEO",
+                    "descripcion": "Search Engine Optimization (Optimización para Motores de Búsqueda), es un conjunto de estrategias y técnicas diseñadas para mejorar la visibilidad y relevancia de un sitio web en los resultados de búsqueda orgánica de los motores de búsqueda. El objetivo principal del SEO es aumentar la cantidad y calidad del tráfico dirigido al sitio, optimizando factores como palabras clave, estructura del contenido, enlaces internos y externos, entre otros, con el fin de mejorar la posición de la página en los resultados de búsqueda y ofrecer una experiencia más satisfactoria para los usuarios."
+                },{
+                    "nombre": "Software de prototipado:",
+                    "descripcion": "Herramienta diseñada para facilitar el proceso de creación y visualización de prototipos interactivos de interfaces gráficas de usuario (GUI). Estas aplicaciones permiten a los diseñadores y desarrolladores representar de manera rápida y eficiente la apariencia y la funcionalidad de una interfaz antes de su implementación final."
+                },{
+                    "nombre": "Stakeholders",
+                    "descripcion": "También conocidos como partes interesadas, son individuos, grupos o entidades que tienen un interés, participación o afectación en un proyecto, proceso o empresa. En el contexto del diseño de interfaz gráfica de usuario, los stakeholders pueden incluir a clientes, usuarios finales, diseñadores, desarrolladores, gerentes de proyecto y otros interesados relevantes. La colaboración efectiva con los stakeholders es crucial para comprender sus necesidades, expectativas y objetivos, lo que contribuye a la creación de una interfaz que satisfaga las diversas perspectivas y requisitos del proyecto."
+                },{
+                    "nombre": "SVG (Scalable Vector Graphics)",
+                     "descripcion": "Son archivos basados en vectores, lo que implica que su calidad no se pierde al ampliarse. Puede insertarse directamente en páginas web mediante código CSS, siendo compacto en tamaño. Aunque admite transparencia y animaciones, se recomienda para formas simples como logotipos e iconos."
+                }
+            ]
+        },{
+            "letra" : "u",
+            "entradas" : [
+                {
+                    "nombre": "Usabilidad",
+                    "descripcion": "Se refiere a la medida en que un sistema o producto digital facilita y optimiza la experiencia del usuario al interactuar con él, buscando asegurar que la interfaz sea intuitiva, eficiente y satisfactoria. En términos simples, se centra en la capacidad del diseño para permitir a los usuarios realizar sus tareas de manera efectiva y agradable, minimizando posibles confusiones o dificultades durante la interacción."
+                }
+            ]
+        },{
+            "letra" : "w",
+            "entradas" : [
+                {    
+                    "nombre": "WebP",
+                     "descripcion": "Desarrollado por Google, este formato ofrece una compresión eficiente de imágenes para su implementación en la web, reduciendo el tamaño de archivo sin comprometer la calidad y mejorando los tiempos de carga en páginas web. Permite elegir entre compresión con pérdida o sin ella, lo que significa que las imágenes pueden ser comprimidas sin perder detalles importantes. Al igual que PNG, WebP admite transparencia, siendo útil para imágenes con fondos transparentes y animaciones con una compresión más eficiente. Dado que fue desarrollado por Google, ha sido ampliamente adoptado en sus servicios y aplicaciones, ganando popularidad a medida que más navegadores y plataformas lo admiten."
+                    
+                },{
+                    "nombre": "Wireframes",
+                    "descripcion": "Los wireframes son representaciones visuales de la estructura y disposición de los elementos en una interfaz gráfica de usuario. Estas representaciones, que suelen ser esquemáticas y de baja fidelidad, sirven para planificar y comunicar la disposición de elementos clave, como botones, menús y secciones, en una interfaz antes de pasar a etapas más detalladas del diseño. Los wireframes se centran en la disposición y el flujo de información, proporcionando una guía visual para el desarrollo y la implementación de interfaces efectivas y funcionales."
                 }
             ]
         }
