@@ -5,6 +5,9 @@
             "letra" : "a",
             "entradas" : [
                 {
+                    "nombre": "ACBD / Aprendizaje Colaborativo Basado en Desafíos",
+                    "descripcion": "El aprendizaje colaborativo basado en desafíos es una estrategia metodológica basada en el aprendizaje colaborativo, en la que los estudiantes son protagonistas de su aprendizaje. En esta estrategia, los docentes guían a los estudiantes en el desarrollo de desafíos, que les permiten desarrollar nuevos aprendizajes y competencias. De esta manera, los estudiantes además de integrar conocimientos reflexionan respecto de lo aprendido."
+                },{
                     "nombre": "Accesibilidad",
                     "descripcion": "Se refiere a la práctica de crear productos digitales de manera que sean utilizables por la mayor cantidad posible de personas, independientemente de sus habilidades, discapacidades o condiciones. Esto implica diseñar interfaces que sean comprensibles, operables y navegables para una amplia variedad de usuarios, incluidos aquellos con limitaciones visuales, auditivas, motoras o cognitivas. En esencia, la accesibilidad busca garantizar que la información y las funciones sean accesibles de manera equitativa para todos, promoviendo la inclusión y proporcionando una experiencia de usuario positiva para cada individuo."
                 },
@@ -153,6 +156,9 @@
                 {
                     "nombre": "Layout web",
                     "descripcion": "Se refiere a la estructura y disposición visual de los elementos en una página web. Incluye la organización y distribución de contenidos, como texto, imágenes y otros elementos, con el objetivo de proporcionar una experiencia de usuario coherente y efectiva. El diseño del layout web busca mejorar la legibilidad, la navegación y la comprensión de la información, asegurando que la interfaz sea estéticamente agradable y funcional para los usuarios."
+                },{
+                    "nombre": "Listas / Lists",
+                    "descripcion": "En HTML, las listas web se utilizan para organizar y presentar información de manera estructurada. Hay tres tipos principales de listas: listas ordenadas (<code>&lt;ol&gt;</code>), listas no ordenadas (<code>&lt;ul&gt;</code>) y listas de definición (<code>&lt;dl&gt;</code>)."
                 }
             ]
         },{
@@ -240,6 +246,14 @@
                 {
                     "nombre": "Usabilidad",
                     "descripcion": "Se refiere a la medida en que un sistema o producto digital facilita y optimiza la experiencia del usuario al interactuar con él, buscando asegurar que la interfaz sea intuitiva, eficiente y satisfactoria. En términos simples, se centra en la capacidad del diseño para permitir a los usuarios realizar sus tareas de manera efectiva y agradable, minimizando posibles confusiones o dificultades durante la interacción."
+                }
+            ]
+        },{
+            "letra" : "v",
+            "entradas" : [
+                {
+                    "nombre": "Vínculos",
+                    "descripcion": "En HTML, los vínculos se crean utilizando la etiqueta <a>, que significa &quot;ancla&quot; o &quot;hipervínculo&quot;. Los vínculos permiten a los usuarios navegar entre diferentes páginas web, secciones de la misma página o recursos en línea. Dentro del diseño de la interfaz, los vínculos deben ser diferenciados con color, subrayado o también pueden ser convertidos a un botón."
                 }
             ]
         },{
