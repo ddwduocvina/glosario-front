@@ -25,6 +25,9 @@
             "letra" : "b",
             "entradas" : [
                 {
+                    "nombre": "Backend",
+                    "descripcion": "El backend es el encargado de procesar toda la información que alimenta a un frontend. Se compone de marcos, bases de datos o códigos. Para que un sitio web o aplicación opere efectivamente, se requiere mucha información y datos que se almacenan en &quot;la parte trasera&quot; de un sistema informático. En oposición al frontend, el usuario no puede ver o acceder a esta información."            
+                },{
                     "nombre": "Benchmark",
                     "descripcion": "El <strong>benchmark</strong> es un análisis comparativo de productos o servicios de la competencia, en relación a un producto existente o a uno por lanzar. También es útil para analizar qué hacen y cómo trabajan los competidores con sus servicios o productos. La idea principal es contar con un punto de referencia proveniente del mercado."            
                 },{
@@ -44,12 +47,18 @@
                 },{
                     "nombre": "Columnas",
                     "descripcion": "Son una estructura organizativa compuesta por líneas verticales que dividen la interfaz en segmentos uniformes. Estas columnas sirven como guías visuales para alinear y distribuir elementos de manera coherente y proporcional, facilitando la creación de diseños equilibrados y legibles. La retícula de columnas es una herramienta fundamental para mejorar la consistencia y la eficiencia en la disposición de contenidos en una interfaz, proporcionando una base visual sólida para la organización y la jerarquía de la información."                        
+                },{
+                    "nombre": "Contenidos",
+                    "descripcion": "Los contenidos dentro de un sitio web hacen referencia a la información que es presentada en formatos digitales. Esto incluye textos, imágenes, videos, audios, infografías y otros elementos que se crean y consumen en plataformas digitales como sitios web, redes sociales, aplicaciones y más. También se refiere a la información que proporcionan las páginas, artículos, imágenes, videos y otros elementos que forman parte del sitio."                        
                 }
             ]
         },{
             "letra" : "d",
             "entradas" : [
                 {
+                    "nombre": "Desarrollo web",
+                    "descripcion": "<p>El desarrollo web es el proceso de creación y mantención de sitios web. Involucra diferentes aspectos, como el diseño de la interfaz, la programación del código, la gestión de bases de datos y la implementación de funcionalidades interactivas. El objetivo del desarrollo web es construir sitios web funcionales, atractivos y eficientes que cumplan con los requisitos específicos del cliente o usuario final.</p><p>Se clasifica en dos categorías principales: el desarrollo del lado del cliente (frontend) y el desarrollo del lado del servidor (backend). El frontend se centra en la interfaz y la experiencia del usuario, mientras que el backend se encarga de la lógica del negocio, la gestión de bases de datos y la comunicación con el frontend. En el desarrollo web se  trabaja con distintos lenguajes, tales como HTML, CSS, JavaScript, y frameworks como React, Angular o Vue.js. Además, se utilizan diversas plataformas y sistemas de gestión de contenido (CMS) como WordPress, Joomla o Drupal.</p>"
+                },{
                     "nombre": "Diseño centrado en el usuario",
                     "descripcion": "Proceso de crear la apariencia visual de un sitio web, software, aplicación o producto digital, con el objetivo de facilitar la interacción del usuario. Este campo busca optimizar la usabilidad y la experiencia del usuario mediante la disposición intuitiva de elementos gráficos, la selección de colores y fuentes, así como la atención a la estética general, con el fin de garantizar una interacción eficiente y agradable."                        
                 },{
@@ -66,6 +75,9 @@
                 {
                     "nombre": "Elementos de interfaz",
                     "descripcion": "Son cada uno de los componentes visuales y funcionales que conforman la interacción entre un usuario y un sistema informático. Estos elementos incluyen botones, iconos, menús, barras de herramientas y otros elementos visuales que facilitan la navegación y la utilización de una aplicación o plataforma, proporcionando una experiencia de usuario intuitiva y eficiente. La disposición, diseño y comportamiento de estos elementos son fundamentales para crear interfaces efectivas y accesibles."                        
+                },{
+                    "nombre": "Encabezados / Headings",
+                    "descripcion": "Los encabezados web, también conocidos como títulos o headings en inglés, son elementos importantes en la estructura de una página web. Estos encabezados se utilizan para organizar y jerarquizar el contenido, facilitando la lectura y comprensión del mismo. En HTML, el lenguaje de marcado utilizado para construir páginas web, los encabezados se etiquetan desde <code>&lt;h1&gt;</code> hasta <code>&lt;h6&gt;</code>, donde <code>&lt;h1&gt;</code> es el encabezado más importante y <code>&lt;h6&gt;</code> el menos importante."                        
                 }
             ]
         },{
@@ -83,6 +95,9 @@
                 },{
                     "nombre": "Fotografía",
                     "descripcion": "Desempeña un papel fundamental en el diseño gráfico al comunicar información visual de manera impactante y efectiva. En el contexto del diseño, las imágenes fotográficas tienen la capacidad única de transmitir emociones, contar historias y captar la atención del espectador de manera inmediata. Al incorporar fotografías en un diseño, se añade un componente visual potente que complementa y refuerza el mensaje transmitido. Además, las imágenes pueden ayudar a establecer la identidad de una marca, transmitir la esencia de un producto o servicio, y crear una conexión emocional con el público objetivo. La elección cuidadosa de las fotografías, considerando aspectos como la composición, la iluminación y la paleta de colores, contribuye significativamente a la efectividad general del diseño."                        
+                },{
+                    "nombre": "Frontend",
+                    "descripcion": "El frontend o &quot;desarrollo del lado del cliente&quot; se refiere a la práctica de producir HTML, CSS y JavaScript. Estos tres elementos se encargan de dar forma a la parte frontal de un sitio web o aplicación. Esto incluye los fondos, colores, texto, animaciones o efectos. El frontend sirve para realizar la interfaz de un sitio web, desde su estructura hasta los estilos, como pueden ser la definición de los colores, texturas, tipografías, secciones, entre otros. Su uso es determinante para que el usuario tenga una buena experiencia dentro del sitio o aplicación. "                        
                 },{
                     "nombre": "Fuente tipográfica",
                     "descripcion": "Conjunto de caracteres alfabéticos, numéricos y simbólicos que comparten un diseño coherente y un estilo visual específico. Estas fuentes son utilizadas en el diseño gráfico y la creación de interfaces de usuario para representar texto de manera legible y estéticamente agradable. Cada fuente tipográfica posee características únicas, como el estilo, el grosor, la altura de las letras y el espaciado entre caracteres, que influyen en la apariencia y la legibilidad del texto en un diseño. La elección cuidadosa de fuentes tipográficas es fundamental en el diseño de interfaces para transmitir la identidad visual y mejorar la experiencia del usuario."                        
@@ -114,6 +129,9 @@
                     "nombre": "Iconografía",
                     "descripcion": "Se refiere al uso y diseño de iconos visuales para representar conceptos, acciones o funciones específicas de manera intuitiva y concisa. Estos elementos gráficos, a menudo pequeños y simbólicos, se emplean para proporcionar una representación visual rápida y comprensible de información o acciones dentro de una interfaz. La iconografía contribuye a la claridad y eficiencia en la comunicación visual, facilitando la navegación y la comprensión de la interfaz por parte del usuario."
                 },{
+                    "nombre": "Infografía",
+                    "descripcion": "Una infografía es una representación visual de información, datos o conocimientos. Se utiliza para comunicar de manera efectiva conceptos complejos de manera rápida y clara. Las infografías suelen combinar elementos gráficos, como imágenes, gráficos y colores, con texto conciso para transmitir información de manera visualmente atractiva."
+                },{
                     "nombre": "Interfaz gráfica de usuario",
                     "descripcion": "Comúnmente conocida como GUI (graphic user interface), es un medio visual y táctil que permite a los usuarios interactuar con dispositivos electrónicos y programas informáticos mediante la representación gráfica de elementos como iconos, botones, menús y ventanas. Su objetivo es facilitar la comunicación entre los usuarios y las máquinas, simplificando la interacción y proporcionando una experiencia intuitiva y eficiente."
                 },{
@@ -144,6 +162,9 @@
                     "nombre": "Main",
                     "descripcion": "Se refiere a la sección principal de un sitio web. Allí se presenta la información principal y proporciona acceso a las funciones clave de la aplicación desde la cual los usuarios pueden interactuar con la plataforma y acceder a sus diversas características y herramientas."
                 },{
+                    "nombre": "Mapa de empatía", 
+                    "descripcion": "El mapa de empatía es una herramienta visual utilizada en el ámbito del diseño de servicios y productos, para comprender mejor a los usuarios o clientes, ya que incluye dimensiones reflexivas y actitudinales de los arquetipos de usuario. Este mapa ayuda a los equipos a obtener una visión más completa y profunda de las necesidades, deseos, pensamientos y emociones de su público objetivo."
+                },{
                     "nombre": "Mapa de navegación", 
                     "descripcion": "Representación visual y estructurada de la arquitectura de un sitio web, aplicación u otro producto digital, que muestra la disposición y relación entre sus páginas o secciones. Este recurso facilita la comprensión de la organización del contenido, permitiendo a los usuarios visualizar la jerarquía y flujo de información, lo que contribuye a una experiencia de navegación más clara y eficiente."
                 },{
@@ -166,8 +187,14 @@
             "letra" : "p",
             "entradas" : [
                 {
+                    "nombre": "Párrafos / Paragraphs",
+                    "descripcion": "Los párrafos web son bloques de texto organizados que se utilizan para presentar información de manera estructurada en una página web. El marcado HTML se utiliza para definir y formatear párrafos en el contenido web. El elemento principal para representar un párrafo en HTML es <code>&lt;p&gt;</code>. Cada párrafo comienza con la etiqueta de apertura <code>&lt;p&gt;</code> y termina con la etiqueta de cierre <code>&lt;/p&gt;</code>. Todo el texto que se encuentra entre estas etiquetas se considera parte del párrafo. Usar párrafos de manera efectiva ayuda a mejorar la legibilidad y la comprensión del contenido en una página web, proporcionando una estructura clara para la información que se presenta."
+                },{
                     "nombre": "PNG (Portable Network Graphics)",
                     "descripcion": "Es una opción de trama con compresión sin pérdidas, preservando los datos originales y manteniendo una calidad de imagen constante, a diferencia del JPEG. Destaca por su claridad visual, siendo ideal para gráficos con énfasis en el texto, como capturas de pantalla, infografías o banners. Optimizado para el uso digital, el PNG es ampliamente utilizado, admite hasta 16 millones de colores y conserva la transparencia, siendo ideal para logotipos vibrantes. Aunque crea archivos más grandes que el JPEG en fotos de alta resolución, es una elección excelente para presentar trabajos de diseño y fotografías en sitios web, aunque se debe tener precaución para no afectar la velocidad del sitio."
+                },{
+                    "nombre": "Público objetivo",
+                    "descripcion":"Se refiere a un grupo específico de personas que pertenecen a un segmento de la población, que es materia de estudio o análisis dentro de una investigación. Este grupo aporta información relevante como edad, género, nivel educativo, ingresos, ocupación y otros datos demográficos que ayudan a comprender las necesidades de estas personas y permite deducir información vital para la investigación."
                 }
             ]
         },{
